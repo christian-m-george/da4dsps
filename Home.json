@@ -1,0 +1,89 @@
+{
+  "name": "Glassboro",
+  "tasks": [
+    {
+      "name": "Take out trash",
+      "period": "weekly"
+    },
+    {
+      "name": "Run dishwasher",
+      "period": "daily"
+    },
+    {
+      "name": "Check fridge temperature",
+      "period": "twice a day"
+    },
+    {
+      "name": "Sweep floors",
+      "period": "weekly"
+    },
+    {
+      "name": "Wipe down countertop",
+      "period": "daily"
+    },
+    {
+      "name": "Clean shower",
+      "period": "daily"
+    },
+    {
+      "name": "Run dishwasher",
+      "period": "daily"
+    },
+    {
+      "name": "Check fridge temperature",
+      "period": "twice a day"
+    },
+    {
+      "name": "Sweep floors",
+      "period": "weekly"
+    },
+    {
+      "name": "Wipe down countertop",
+      "period": "daily"
+    },
+    {
+      "name": "Clean shower",
+      "period": "daily"
+    },
+    {
+      "name": "Run dishwasher",
+      "period": "daily"
+    },
+    {
+      "name": "Check fridge temperature",
+      "period": "twice a day"
+    },
+    {
+      "name": "Sweep floors",
+      "period": "weekly"
+    },
+    {
+      "name": "Wipe down countertop",
+      "period": "daily"
+    },
+    {
+      "name": "Clean shower",
+      "period": "daily"
+    },
+    {
+      "name": "Run dishwasher",
+      "period": "daily"
+    },
+    {
+      "name": "Check fridge temperature",
+      "period": "twice a day"
+    },
+    {
+      "name": "Sweep floors",
+      "period": "weekly"
+    },
+    {
+      "name": "Wipe down countertop",
+      "period": "daily"
+    },
+    {
+      "name": "Clean shower",
+      "period": "daily"
+    }
+  ]
+}

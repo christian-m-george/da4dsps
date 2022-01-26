@@ -1,0 +1,98 @@
+[
+  {
+    "name": "Take out trash",
+    "period": "weekly",
+    "completedBy": "Michael",
+    "timeCompleted": "12:23PM"
+  },
+  {
+    "name": "Run dishwasher",
+    "period": "daily",
+    "completedBy": "Ralph",
+    "timeCompleted": "8:30PM"
+  },
+  {
+    "name": "Check fridge temperature",
+    "period": "twice a day",
+    "completedBy": "Elizabeth",
+    "timeCompleted": "1:41PM"
+  },
+  {
+    "name": "Sweep floors",
+    "period": "weekly",
+    "completedBy": "Carlos",
+    "timeCompleted": "2:58PM"
+  },
+  {
+    "name": "Wipe down countertop",
+    "period": "daily",
+    "completedBy": "Reggie",
+    "timeCompleted": "7:11AM"
+  },
+  {
+    "name": "Clean shower",
+    "period": "daily",
+    "completedBy": "Carmine",
+    "timeCompleted": "1:23AM"
+  },
+  {
+    "name": "Run dishwasher",
+    "period": "daily",
+    "completedBy": "Ralph",
+    "timeCompleted": "8:30PM"
+  },
+  {
+    "name": "Check fridge temperature",
+    "period": "twice a day",
+    "completedBy": "Elizabeth",
+    "timeCompleted": "1:41PM"
+  },
+  {
+    "name": "Sweep floors",
+    "period": "weekly",
+    "completedBy": "Carlos",
+    "timeCompleted": "2:58PM"
+  },
+  {
+    "name": "Wipe down countertop",
+    "period": "daily",
+    "completedBy": "Reggie",
+    "timeCompleted": "7:11AM"
+  },
+  {
+    "name": "Clean shower",
+    "period": "daily",
+    "completedBy": "Carmine",
+    "timeCompleted": "1:23AM"
+  },
+  {
+    "name": "Run dishwasher",
+    "period": "daily",
+    "completedBy": "Ralph",
+    "timeCompleted": "8:30PM"
+  },
+  {
+    "name": "Check fridge temperature",
+    "period": "twice a day",
+    "completedBy": "Elizabeth",
+    "timeCompleted": "1:41PM"
+  },
+  {
+    "name": "Sweep floors",
+    "period": "weekly",
+    "completedBy": "Carlos",
+    "timeCompleted": "2:58PM"
+  },
+  {
+    "name": "Wipe down countertop",
+    "period": "daily",
+    "completedBy": "Reggie",
+    "timeCompleted": "7:11AM"
+  },
+  {
+    "name": "Clean shower",
+    "period": "daily",
+    "completedBy": "Carmine",
+    "timeCompleted": "1:23AM"
+  }
+]

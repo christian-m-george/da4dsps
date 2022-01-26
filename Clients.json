@@ -1,0 +1,57 @@
+[
+  {
+    "name": "John Johnson",
+    "image": "https://picsum.photos/seed/123/200",
+    "tasks": [
+        { "name": "Gardening", "period": "weekly" },
+        { "name": "Hygeine", "period": "daily" },
+        { "name": "Word Practice", "period": "daily" },
+        { "name": "Take medication", "period": "daily" },
+        { "name": "Skill Session", "period": "daily" }
+    ]
+  },
+  {
+    "name": "Sally Salmon",
+    "image": "https://picsum.photos/seed/125/200",
+    "tasks": [
+      { "name": "Gardening", "period": "weekly" },
+      { "name": "Hygeine", "period": "daily" },
+      { "name": "Word Practice", "period": "daily" },
+      { "name": "Take medication", "period": "daily" },
+      { "name": "Skill Session", "period": "daily" }
+    ]
+  },
+  {
+    "name": "Ron Rodgers",
+    "image": "https://picsum.photos/seed/128/200",
+    "tasks": [
+        { "name": "Gardening", "period": "weekly" },
+        { "name": "Hygeine", "period": "daily" },
+        { "name": "Word Practice", "period": "daily" },
+        { "name": "Take medication", "period": "daily" },
+        { "name": "Skill Session", "period": "daily" }
+    ]
+  },
+  {
+    "name": "Gus Caesar",
+    "image": "https://picsum.photos/seed/129/200",
+    "tasks": [
+        { "name": "Gardening", "period": "weekly" },
+        { "name": "Hygeine", "period": "daily" },
+        { "name": "Word Practice", "period": "daily" },
+        { "name": "Take medication", "period": "daily" },
+        { "name": "Skill Session", "period": "daily" }
+    ]
+  },
+  {
+    "name": "Rocco George",
+    "image": "https://picsum.photos/seed/112/200",
+    "tasks": [
+        { "name": "Gardening", "period": "weekly" },
+        { "name": "Hygeine", "period": "daily" },
+        { "name": "Word Practice", "period": "daily" },
+        { "name": "Take medication", "period": "daily" },
+        { "name": "Skill Session", "period": "daily" }
+    ]
+  }
+]
